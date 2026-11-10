@@ -1,0 +1,2 @@
+source_id,source_name,source_type,source_url,version,retrieval_date,license,attribution,transformation_notes
+SRC-001,Synthetic Academic Support Dataset,SYNTHETIC,,1.0,2026-11-10,Synthetic/Internal,Generated for assessment,Generated deterministically using seed 20261022. No external personal or institutional data used.

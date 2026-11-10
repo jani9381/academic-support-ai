@@ -1,0 +1,67 @@
+{
+  "ticket": {
+    "ticket_id": "TKT-2026-000001",
+    "requester_id": "REQ-000073",
+    "category_id": "CAT-003",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "created_at": "2026-02-09T04:46:58"
+  },
+  "decision": {
+    "routing": {
+      "ticket_id": "TKT-2026-000001",
+      "domain": "IT",
+      "assigned_team": "IT Support Team",
+      "routing_status": "AUTO_ROUTED"
+    },
+    "sla_hours": 8,
+    "sla": {
+      "priority": "HIGH",
+      "sla_hours": 8,
+      "started_at": "2026-02-09 04:46:58",
+      "due_at": "2026-02-09 12:46:58"
+    },
+    "escalation_required": false
+  },
+  "policy": {
+    "retrieval_status": "SOURCE_FOUND",
+    "confidence": "MEDIUM",
+    "sources": [
+      {
+        "source_type": "KNOWLEDGE_ARTICLE",
+        "source_id": "KB-000003",
+        "title": "It Knowledge Article 0003",
+        "version": "1.0",
+        "effective": true,
+        "score": 0.55
+      },
+      {
+        "source_type": "KNOWLEDGE_ARTICLE",
+        "source_id": "KB-000007",
+        "title": "It Knowledge Article 0007",
+        "version": "1.0",
+        "effective": true,
+        "score": 0.55
+      },
+      {
+        "source_type": "KNOWLEDGE_ARTICLE",
+        "source_id": "KB-000011",
+        "title": "It Knowledge Article 0011",
+        "version": "1.0",
+        "effective": true,
+        "score": 0.55
+      }
+    ]
+  },
+  "response": {
+    "answer": "According to It Knowledge Article 0003: This knowledge article provides approved guidance for software. Technology support requests should include the affected service, device information, and a description of the problem. Critical service outages must be escalated to IT support. Students and faculty should contact the appropriate support team when the standard process does not resolve the request.",
+    "citation": "KB-000003",
+    "grounded": true
+  },
+  "traceability": {
+    "request_date": "2026-02-09",
+    "message_count": 4,
+    "source_count": 3,
+    "timestamp": "2026-11-10T15:08:58"
+  }
+}

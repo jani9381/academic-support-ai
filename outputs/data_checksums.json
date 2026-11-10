@@ -1,0 +1,77 @@
+[
+  {
+    "file_name": "assignment.csv",
+    "row_count": 5000,
+    "sha256": "6289ea752cbdc3cce85aff035f6bcb8d6e9a373d2dd6e40fb2c4372277096d9b"
+  },
+  {
+    "file_name": "assignment_source.csv",
+    "row_count": 5000,
+    "sha256": "fecf0c439b15c608877ac797a70eaca3edd20ae0e0e0f6c0d1513b54b9fe7b1f"
+  },
+  {
+    "file_name": "category.csv",
+    "row_count": 4,
+    "sha256": "e3fe4c00f97a2ef3d36a675f9fb0487452e24513b9f440f1c44527be8c958cdc"
+  },
+  {
+    "file_name": "event_history.csv",
+    "row_count": 18745,
+    "sha256": "8454ae04f1dad15acece4c27a12d4b7f5f1416167e9a9e66ba858f558acb3954"
+  },
+  {
+    "file_name": "ground_truth.csv",
+    "row_count": 5000,
+    "sha256": "51baceaf8823bf3cc468ac39b13c765d2b573b77795429095a4a99e0f95b3c59"
+  },
+  {
+    "file_name": "knowledge_article.csv",
+    "row_count": 200,
+    "sha256": "eb34af844dd17746a5e50600cce78c758a202e26c36782e8913aa8ac1da59243"
+  },
+  {
+    "file_name": "message.csv",
+    "row_count": 20000,
+    "sha256": "8abc46303d8f14371ff71542042d7c1cf9aaa018ebf919d19f35e7486c5cd931"
+  },
+  {
+    "file_name": "policy_document.csv",
+    "row_count": 5,
+    "sha256": "f925f2b09b600388e0d99b88e2f543ff088666b7a67ec04aeaa5b1bd0fcaeed3"
+  },
+  {
+    "file_name": "requester.csv",
+    "row_count": 100,
+    "sha256": "a098e7cb6b9f1f4c581d3d67618904cbc218c095753c237b537410319d1df91c"
+  },
+  {
+    "file_name": "resolution_feedback.csv",
+    "row_count": 5000,
+    "sha256": "000acff2833f78016c1fb73b0fa42e3ee66dda5f9638308e126319424de97d78"
+  },
+  {
+    "file_name": "role.csv",
+    "row_count": 5,
+    "sha256": "48594e2ba16341402f667fd18b2e13c7a82c73f60faa3b56279117c460c7c5d3"
+  },
+  {
+    "file_name": "sla.csv",
+    "row_count": 5000,
+    "sha256": "fa1cc060c94e51761381acde40ba573a4b37e64560e65f90bf25a5886fc1aa52"
+  },
+  {
+    "file_name": "source_manifest.csv",
+    "row_count": 1,
+    "sha256": "9065ea284571d724e70fab16f6c571b60048ddb28a650f1bf5f164f5beca6518"
+  },
+  {
+    "file_name": "term.csv",
+    "row_count": 3,
+    "sha256": "d65ebb9614d7446bfd93864e287756ef080fba4f21de15059d974ff2a57d4468"
+  },
+  {
+    "file_name": "ticket.csv",
+    "row_count": 5000,
+    "sha256": "820809c1e0ba90437fd082fba990a86277c4293b22a5ef69879a2aa9c70556f2"
+  }
+]

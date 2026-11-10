@@ -1,0 +1,12 @@
+{
+  "project": "Academic Support AI",
+  "seed": 20261022,
+  "tickets_requested": 5000,
+  "articles_requested": 200,
+  "messages_requested": 20000,
+  "anomalies_requested": 100,
+  "generated_at": "2026-11-10T15:08:33.921687",
+  "data_directory": "C:\\Users\\hp\\OneDrive\\Desktop\\academic-support-ai-final\\data",
+  "deterministic_generation": true,
+  "external_data_used": false
+}
